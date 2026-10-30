@@ -1,0 +1,3 @@
+Add your own portrait photo to this folder and name it profile.jpg.
+The HTML looks for profile.jpg in the same folder as index.html.
+If your photo is PNG, update src="profile.jpg" in index.html to src="profile.png".
